@@ -86,5 +86,34 @@ namespace AirTrafficOptimization
                     ReverseDFS(neighbor, transpose, visited, component);
             }
         }
+        public static double[] GetShortestPath(List<Edge> edges, int start, int numberOfNodes)
+        {
+            var distances = Enumerable.Repeat(double.MaxValue, numberOfNodes).ToArray();
+            distances[start] = 0;
+
+            var priorityQueue = new SortedSet<(double, int)>();
+            priorityQueue.Add((0, start));
+
+            while (priorityQueue.Count > 0)
+            {
+                var (currentDistance, currentNode) = priorityQueue.First();
+                priorityQueue.Remove(priorityQueue.First());
+
+                foreach (var edge in edges.Where(e => e.From == currentNode))
+                {
+                    int neighbor = edge.To;
+                    double newDistance = currentDistance + edge.Weight;
+
+                    if (newDistance < distances[neighbor])
+                    {
+                        priorityQueue.Remove((distances[neighbor], neighbor));
+                        distances[neighbor] = newDistance;
+                        priorityQueue.Add((newDistance, neighbor));
+                    }
+                }
+            }
+
+            return distances;
+        }
     }
 }

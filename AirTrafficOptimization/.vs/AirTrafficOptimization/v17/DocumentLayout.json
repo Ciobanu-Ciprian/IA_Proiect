@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Facultate\\An4\\IA\\Proiect\\AirTrafficOptimization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|e:\\facultate\\an4\\ia\\proiect\\airtrafficoptimization\\airtrafficoptimization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|solutionrelative:airtrafficoptimization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|e:\\facultate\\an4\\ia\\proiect\\airtrafficoptimization\\airtrafficoptimization\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|solutionrelative:airtrafficoptimization\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|e:\\facultate\\an4\\ia\\proiect\\airtrafficoptimization\\airtrafficoptimization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|E:\\Facultate\\An4\\IA\\Proiect\\AirTrafficOptimization\\airtrafficoptimization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|solutionrelative:airtrafficoptimization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|e:\\facultate\\an4\\ia\\proiect\\airtrafficoptimization\\airtrafficoptimization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|solutionrelative:airtrafficoptimization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|e:\\facultate\\an4\\ia\\proiect\\airtrafficoptimization\\airtrafficoptimization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C1F1B3-CBEB-4AA3-A6A5-18457145A7EF}|AirTrafficOptimization\\AirTrafficOptimization.csproj|solutionrelative:airtrafficoptimization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "E:\\Facultate\\An4\\IA\\Proiect\\AirTrafficOptimization\\AirTrafficOptimization\\Graph.cs",
+              "RelativeDocumentMoniker": "AirTrafficOptimization\\Graph.cs",
+              "ToolTip": "E:\\Facultate\\An4\\IA\\Proiect\\AirTrafficOptimization\\AirTrafficOptimization\\Graph.cs",
+              "RelativeToolTip": "AirTrafficOptimization\\Graph.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:29:30.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Facultate\\An4\\IA\\Proiect\\AirTrafficOptimization\\AirTrafficOptimization\\Program.cs",
+              "RelativeDocumentMoniker": "AirTrafficOptimization\\Program.cs",
+              "ToolTip": "E:\\Facultate\\An4\\IA\\Proiect\\AirTrafficOptimization\\AirTrafficOptimization\\Program.cs",
+              "RelativeToolTip": "AirTrafficOptimization\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:28:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\Facultate\\An4\\IA\\Proiect\\AirTrafficOptimization\\AirTrafficOptimization\\Form1.cs",
               "RelativeDocumentMoniker": "AirTrafficOptimization\\Form1.cs",
